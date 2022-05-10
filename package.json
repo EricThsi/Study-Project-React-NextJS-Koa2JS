@@ -30,7 +30,7 @@
     "@zeit/next-sass": "^1.0.1",
     "antd": "^4.1.4",
     "atob": "^2.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
     "github-markdown-css": "^4.0.0",
