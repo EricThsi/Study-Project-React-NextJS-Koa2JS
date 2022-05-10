@@ -42,7 +42,7 @@
     "lru-cache": "^5.1.1",
     "markdown-it": "^12.3.2",
     "next": "^12.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
